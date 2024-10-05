@@ -1,10 +1,6 @@
 # SOLID Principles Assignment
 
 **Course Name**: Software Design Patterns  
-**Submission Format**: Word or PDF document containing screenshots of your tasks and answers that cover full-page.  
-
-All code must be written by you. Copying code from online sources or other students is strictly prohibited. You must be able to explain your solution when requested by the teacher. Failure to explain the logic behind your code may be flagged as suspicious and considered cheating.
-
 ---
 
 ## Task 1: Payment Processing System
